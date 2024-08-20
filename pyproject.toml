@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "python-cpj-cnpj-generator"
+version = "0.1.0"
+description = ""
+authors = ["Andy Jimenez Reyes <wasosky313@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pycpfcnpj = "^1.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
