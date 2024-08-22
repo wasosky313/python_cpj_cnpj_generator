@@ -1,4 +1,4 @@
-# Python CPF CNPJ generator and validator
+# Python CPF | CNPJ generator and validator
 
 ## Installation
 - `git clone git@github.com:wasosky313/python_cpj_cnpj_generator.git`
